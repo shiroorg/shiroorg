@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <a href="https://www.instagram.com/shiroorg/">
   <img align="left" alt="Shiroorg Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -12,7 +12,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=shiroorg.teh.prof)
 
-## Hi, My name is [Dmitry Kremezion](https://shiroorg.ru).
+## My name is [Dmitry Kremezion](https://shiroorg.ru).
 Frontend | Backend 
 
 I have been a PHP developer since 2013. I have been working on server programming (big data, cluster programming, high load). 
@@ -56,19 +56,3 @@ Used underscore & backbone in projects. When writing scripts, I have experience 
   <img alt="kibana" src="https://img.shields.io/badge/-Kibana-b5b6b8?style=flat-square&logo=kibana&logoColor=black&color=46a2f1" /> 
 
 </p>
-
-         
-<!--
-**shiroorg/shiroorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
