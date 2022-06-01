@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<a href="https://www.instagram.com/shiroorg/">
+  <img align="left" alt="Shiroorg Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://www.facebook.com/kremezion/">
+  <img align="left" alt="Shiroorg Facebook" width="22px" src="https://img.icons8.com/color/344/facebook-new.png" />
+</a>
+<a href="https://www.linkedin.com/in/shiroorg/">
+  <img align="left" alt="Shiroorg LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=shiroorg.teh.prof)
 
@@ -14,16 +23,6 @@ The main development language is PHP. I worked with self-written MVC, most often
 
 ### Fronted development
 Used underscore & backbone in projects. When writing scripts, I have experience in creating onepage application. I used Gulp to build scripts and styles.
-
-<a href="https://www.instagram.com/shiroorg/">
-  <img align="left" alt="Shiroorg Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://www.facebook.com/kremezion/">
-  <img align="left" alt="Shiroorg Facebook" width="22px" src="https://img.icons8.com/color/344/facebook-new.png" />
-</a>
-<a href="https://www.linkedin.com/in/shiroorg/">
-  <img align="left" alt="Shiroorg LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
 <br />
 
