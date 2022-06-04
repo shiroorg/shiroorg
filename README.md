@@ -13,16 +13,16 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=shiroorg.teh.prof)
 
 ## My name is [Dmitry Kremezion](https://shiroorg.ru).
-Frontend | Backend 
 
-I have been a PHP developer since 2013. I have been working on server programming (big data, cluster programming, high load). 
-From 2015 i have been working on a back-end development for mobile app. I have also been working on design for the mobile app
+Frontend | Backend
+
+I have been a PHP developer since 2013. I have been working on server programming (big data, cluster programming, high load). From 2015 i have been working on a backend development for mobile app.  
 
 ### Backend development
-The main development language is PHP. I worked with self-written MVC, most often in my work I used the Kohana framework and Ci3 & Ci4 to work with the backend part of projects. I have experience in integrating with various api-services (google, firebase, yandex, etc.), as well as creating a documented api within projects.
+The main development language is PHP. I worked with self-written MVC, most often in my work I used the Koahan, Lumen, CodeIgniter  to work with the backend part of projects. I have experience in integrating with various api-services (google, firebase, yandex, etc.), as well as creating a documented api within projects.
 
 ### Fronted development
-Used underscore & backbone in projects. When writing scripts, I have experience in creating onepage application. I used Gulp to build scripts and styles.
+Used underscore.js & backbone.js in projects. When writing scripts, I have experience in creating onepage application. I used Gulp to build scripts and styles.
 
 <br />
 
