@@ -14,7 +14,7 @@
 
 ## My name is [Dmitry Kremezion](https://shiroorg.ru).
 
-Frontend | Backend
+PHP and JS Developer
 
 I have been a PHP developer since 2013. I have been working on server programming (big data, cluster programming, high load). From 2015 i have been working on a backend development for mobile app.  
 
