@@ -42,6 +42,7 @@ Used underscore.js & backbone.js in projects. When writing scripts, I have exper
   
   <img alt="Git" src="https://img.shields.io/badge/-Git-b5b6b8?style=flat-square&logo=git&logoColor=black&color=45b8d8" /> 
   <img alt="Npm" src="https://img.shields.io/badge/-NPM-b5b6b8?style=flat-square&logo=npm&logoColor=black&color=45b8d8" /> 
+  <img alt="Composer" src="https://img.shields.io/badge/-Composer-b5b6b8?style=flat-square&logo=composer&logoColor=black&color=45b8d8" /> 
   <br/>
 
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-b5b6b8?style=flat-square&logo=mongoDB&logoColor=black&color=5849BE" /> 
