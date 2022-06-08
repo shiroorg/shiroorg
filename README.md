@@ -16,7 +16,7 @@
 
 PHP and JS Developer
 
-I have been a PHP developer since 2013. I have been working on server programming (big data, cluster programming, high load). From 2015 i have been working on a backend development for mobile app.  
+I have been a PHP developer since 2013. I have been working on server programming (big data, cluster programming, high load). 
 
 ### Backend development
 The main development language is PHP. I worked with self-written MVC, most often in my work I used the Koahan, Lumen, CodeIgniter  to work with the backend part of projects. I have experience in integrating with various api-services (google, firebase, yandex, etc.), as well as creating a documented api within projects.
