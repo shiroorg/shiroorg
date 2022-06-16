@@ -19,7 +19,7 @@ PHP and JS Developer
 I have been a PHP developer since 2013. I have been working on server programming (big data, cluster programming, high load). 
 
 ### Backend development
-The main development language is PHP. I worked with self-written MVC, most often in my work I used the Koahan, Lumen, CodeIgniter  to work with the backend part of projects. I have experience in integrating with various api-services (google, firebase, yandex, etc.), as well as creating a documented api within projects.
+The main development language is PHP. I worked with self-written MVC, most often in my work I used the Kohana (Koseven), Lumen, CodeIgniter  to work with the backend part of projects. I have experience in integrating with various api-services (google, firebase, yandex, etc.), as well as creating a documented api within projects.
 
 ### Fronted development
 Used underscore.js & backbone.js in projects. When writing scripts, I have experience in creating onepage application. I used Gulp to build scripts and styles.
