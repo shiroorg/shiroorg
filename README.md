@@ -22,11 +22,11 @@ Used underscore.js & backbone.js in projects. When writing scripts, I have exper
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-b5b6b8?style=flat-square&logo=javascript&logoColor=black&color=lightgrey" /> 
   <img alt="HTML" src="https://img.shields.io/badge/-HTML5-b5b6b8?style=flat-square&logo=html5&logoColor=black&color=lightgrey" /> 
   <img alt="NodeJs" src="https://img.shields.io/badge/-Nodejs-b5b6b8?style=flat-square&logo=node.js&logoColor=black&color=lightgrey" /> 
-<br/>
+  <br/>
   <img alt="Less" src="https://img.shields.io/badge/-Less-b5b6b8?style=flat-square&logo=less&logoColor=black&color=db7092" /> 
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-b5b6b8?style=flat-square&logo=sass&logoColor=black&color=db7092" /> 
   <img alt="Gulp" src="https://img.shields.io/badge/-Gulp-b5b6b8?style=flat-square&logo=gulp&logoColor=black&color=db7092" /> 
-<br/>
+  <br/>
 
 [//]: # (  <img alt="React" src="https://img.shields.io/badge/-React-b5b6b8?style=flat-square&logo=react&logoColor=black&color=45b8d8" /> )
   
