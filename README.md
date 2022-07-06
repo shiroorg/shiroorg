@@ -45,5 +45,4 @@ Used underscore.js & backbone.js in projects. When writing scripts, I have exper
   <img alt="ApacheKafka" src="https://img.shields.io/badge/-ApacheKafka-b5b6b8?style=flat-square&logo=apachekafka&logoColor=black&color=46a2f1" /> 
   <img alt="apache" src="https://img.shields.io/badge/-Apache-b5b6b8?style=flat-square&logo=apache&logoColor=black&color=46a2f1" /> 
   <img alt="kibana" src="https://img.shields.io/badge/-Kibana-b5b6b8?style=flat-square&logo=kibana&logoColor=black&color=46a2f1" /> 
-
 </p>
