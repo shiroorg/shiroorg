@@ -13,9 +13,7 @@ The main development language is PHP. I worked with self-written MVC, most often
 
 ### Fronted development
 Used underscore.js & backbone.js in projects. When writing scripts, I have experience in creating onepage application. I used Gulp to build scripts and styles.
-
 <br />
-
 ### Languages and tools:
 <p>
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-b5b6b8?style=flat-square&logo=php&logoColor=black&color=lightgrey" /> 
